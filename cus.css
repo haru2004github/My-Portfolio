@@ -73,4 +73,7 @@ a{
         object-fit: cover;
         
     }
+    .home{
+        padding:100px 0;
+    }
 }
